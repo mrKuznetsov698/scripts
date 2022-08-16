@@ -4,7 +4,7 @@ docker create \
     --network host \
     --cap-add NET_ADMIN \
     --volume /data:/data \
-    --env SUBSPACE_HTTP_HOST="subspace.example.com" \
+    --env SUBSPACE_HTTP_HOST=$HTTP_HOST \
     --env SUBSPACE_NAMESERVERS="1.1.1.1,8.8.8.8" \
     --env SUBSPACE_LISTENPORT="51820" \
     --env SUBSPACE_IPV4_POOL="10.99.97.0/24" \
