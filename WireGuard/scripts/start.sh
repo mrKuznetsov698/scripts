@@ -1,3 +1,4 @@
+#/bin/bash
 docker create \
     --name subspace \
     --restart always \
