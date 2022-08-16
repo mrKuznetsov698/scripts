@@ -1,6 +1,6 @@
 # Install WireGuard VPN with web ui
-## * All scripts from [subspacecommunity/subspace](https://github.com/subspacecommunity/subspace) *
-## * I use this for quick install subspace *
+## *All scripts from [subspacecommunity/subspace](https://github.com/subspacecommunity/subspace)*
+## *I use this for quick install subspace*
 
 For install:
 ```bash
