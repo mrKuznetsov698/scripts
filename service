@@ -1,5 +1,5 @@
 [Unit]
-Description=ROT13 demo service
+Description=Auto wg-easy start
 After=network.target
 StartLimitIntervalSec=0
 
